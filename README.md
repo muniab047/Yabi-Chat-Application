@@ -24,7 +24,7 @@ Our adventure begins with setting up Yabi Chat on your local machine. To do that
 1. **Clone the repository:**  
 
    ```bash
-   git clone https://github.com/yourusername/yabi-chat.git
+   git clone https://github.com/muniab047/Yabi-Chat-Application.git
 2. **Install MySQL:**  
 
 Ensure that MySQL is installed on your machine. You can download it from the official MySQL website.  
